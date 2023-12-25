@@ -15,7 +15,7 @@ git push
 ```
 
 ###### [Embed](https://qiita.com/Qiita/items/612e2e149b9f9451c144)
-<script async class="speakerdeck-embed" data-id="f41af42d719b40529cdd96e393c410e6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" height="450" width="800" src="https://www.figma.com/embed?embed_host=astra&url=https://www.figma.com/file/LKQ4FJ4bTnCSjedbRpk931/Sample-File" allowfullscreen />
 
 ```
 X（Twitter）
