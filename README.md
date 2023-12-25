@@ -14,6 +14,22 @@ git commit -m "1st"
 git push
 ```
 
+###### [Embed](https://qiita.com/Qiita/items/612e2e149b9f9451c144)
+<script async class="speakerdeck-embed" data-id="f41af42d719b40529cdd96e393c410e6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+```
+X（Twitter）
+CodeSandbox
+CodePen
+GitHub Gist
+Asciinema
+Figma
+Speaker Deck
+SlideShare
+Google Slide
+Docswell
+YouTube
+```
 
 
 
