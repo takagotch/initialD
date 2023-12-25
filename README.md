@@ -4,7 +4,7 @@ https://soundcloud.com/takagotch/takashi-yoshioka-sumvth8-original?utm_source=cl
 
 - Initial D Fifth Stage Non-Stop D Selection Vol. 2
 
-[![Google](http://img.youtube.com/vi/x50RL25yyYY/0.jpg)](https://www.youtube.com/watch?v=x50RL25yyYY "Google")
+[![Google](http://img.youtube.com/vi/6Orx5JvksOk/0.jpg)](https://www.youtube.com/watch?v=6Orx5JvksOk "Google")
 
 
 ```
